@@ -1,4 +1,4 @@
-//Function of components
+//practice code Function of components
 //Form component
 //Todo data Component
 //Todo
